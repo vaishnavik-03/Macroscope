@@ -1,4 +1,5 @@
-# Macroscope 🔍
+# MacroScope
+ope 🔍
 
 Macroscope is a health-focused web project that helps users understand
 what and how much they eat by tracking **BMI, BMR, and calorie intake**.
